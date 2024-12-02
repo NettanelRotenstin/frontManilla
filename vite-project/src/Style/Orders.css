@@ -1,0 +1,29 @@
+.orders {
+    margin: 10%;
+    margin-top: 5%;
+    border-style: groove;
+    padding: 3%;
+    border-radius: 10px;
+    border-color: beige;
+}
+
+hr {
+    border-top: 1px;
+    width: 100%;
+}
+
+.input-range {
+    width: 100%;
+    display: flex;
+    color: green;
+}
+
+.input-range input {
+    width: 100%;
+}
+
+.options{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
