@@ -1,0 +1,12 @@
+.comment {
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+    font-size: x-large;
+    color: green;
+}
+
+.input-cmt {
+    height: 150px;
+    background-color: #f2f7f0;
+}

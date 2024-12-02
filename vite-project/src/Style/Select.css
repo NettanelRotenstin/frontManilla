@@ -1,0 +1,13 @@
+.select{
+    margin: 7%;
+    border-style: groove;
+    padding: 3%;
+    border-radius: 10px;
+    border-color: beige;
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+    color: green;
+}

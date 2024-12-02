@@ -1,6 +1,21 @@
-.form-{
+.form- {
     background-color: #fff;
     width: 70%;
     border-radius: 20px;
     direction: rtl;
+    display: flex;
+    flex-direction: column;
+    margin-top: -25px
+}
+
+.send {
+    width: 90%;
+    height: 60px;
+    background-color: #527a4d;
+    color: rgb(163, 227, 159);
+    font-size: x-large;
+    left: 10px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    border-radius: 7px;
 }
